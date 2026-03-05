@@ -1,7 +1,3 @@
----
-
-# README English
-
 # Challenge 01 — Hello World
 
 ## Introduction
