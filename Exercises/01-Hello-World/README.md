@@ -2,7 +2,6 @@
 
 # README English
 
-```markdown
 # Challenge 01 — Hello World
 
 ## Introduction
